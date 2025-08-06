@@ -9,3 +9,7 @@ The input for OrgM is a signle directory containing images.
 This repository contains a user guide with screen shots and step by step instructions as well as example images and
 and example output file. 
 
+# How to run OrgM
+
+1. Open Fiji
+2. 
